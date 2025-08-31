@@ -1,0 +1,15 @@
+{
+  "daily": [
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Rainbow Clover", "price": 300, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Raise The Roof", "price": 500, "rarity": "rare" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Psi-Rider", "price": 67, "rarity": "uncommon" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Rage", "price": 500, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Cold Snap", "price": 800, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Ice Breaker", "price": 500, "rarity": "uncommon" }
+  ],
+  "featured": [
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Tigeress", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Dare", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Travis Scott", "price": 1200, "rarity": "epic" }
+  ]
+}
