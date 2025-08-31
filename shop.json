@@ -10,6 +10,6 @@
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Tigeress", "price": 1200, "rarity": "rare" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Dare", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Travis Scott", "price": 1200, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Midas", "price": 1200, "rarity": "epic" }
   ]
 }
