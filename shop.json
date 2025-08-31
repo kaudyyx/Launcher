@@ -1,6 +1,6 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Midas", "price": 300, "rarity": "rare" },
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Echo", "price": 300, "rarity": "rare" },
     { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Raise The Roof", "price": 500, "rarity": "rare" },
     { "id": "AthenaGlider:Umbrella_Season_05", "name": "Psi-Rider", "price": 67, "rarity": "uncommon" },
     { "id": "AthenaDance:EID_CrazyBoy", "name": "Rage", "price": 500, "rarity": "epic" },
