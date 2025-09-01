@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Fishstick", "price": 300, "rarity": "rare" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Fishstick", "price": 500, "rarity": "rare" },
-    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Fishstick", "price": 67, "rarity": "uncommon" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Fishstick", "price": 500, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Fishstick", "price": 800, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Fishstick", "price": 500, "rarity": "uncommon" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Echo", "price": 300, "rarity": "rare" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Echo", "price": 500, "rarity": "rare" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Echo", "price": 67, "rarity": "uncommon" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Echo", "price": 500, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Echo", "price": 800, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Echo", "price": 500, "rarity": "uncommon" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Fishstick", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Fishstick", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Fishstick", "price": 1200, "rarity": "epic" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Echo", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Echo", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Echo", "price": 1200, "rarity": "epic" }
   ]
 }
