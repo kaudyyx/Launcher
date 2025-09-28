@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Rick's UFO Cruiser", "price": 800, "rarity": "epic" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Kick Back", "price": 700, "rarity": "rare" },
-    { "id": "AthenaGlider:Umbrella_Season_05", "name": "El Chapulín Colorado", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Lil' Saucer", "price": 750, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Hook Slicer", "price": 500, "rarity": "Uncommon" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Hammerhead Morty", "price": 1200, "rarity": "epic" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Nosh", "price": 450, "rarity": "epic" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Hype", "price": 300, "rarity": "rare" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Astroworld Cyclone", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Pickin'", "price": 500, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Joker's Revenge", "price": 1750, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Peely Pick", "price": 800, "rarity": "rare" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Grimoire", "price": 1500, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Par Patroller", "price": 800, "rarity": "uncommon" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Scarlet Commander", "price": 1200, "rarity": "uncommon" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Psycho Bandit", "price": 5000, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Midnight Dusk", "price": 1800, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Toy Trooper", "price": 800, "rarity": "uncommon" }
   ]
 }
