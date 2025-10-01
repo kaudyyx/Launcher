@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Nosh", "price": 450, "rarity": "epic" },
-    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Hype", "price": 300, "rarity": "rare" },
-    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Astroworld Cyclone", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Pickin'", "price": 500, "rarity": "rare" },
-    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Joker's Revenge", "price": 1750, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Peely Pick", "price": 800, "rarity": "rare" }
+    { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Prickly Patroller", "price": 800, "rarity": "uncommon" },
+    { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Scenario", "price": 2500, "rarity": "rare" },
+    { "id": "AthenaGlider:Umbrella_Season_05", "name": "Brite Blimp", "price": 800, "rarity": "epic" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Hot Marat'", "price": 0, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Reaper", "price": 500, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Holofoil", "price": 150, "rarity": "rare" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Psycho Bandit", "price": 5000, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Midnight Dusk", "price": 1800, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Toy Trooper", "price": 800, "rarity": "uncommon" }
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Catwoman Comic Book Outfit", "price": 3500, "rarity": "legendary" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Merry Mint Axe", "price": 7500, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Travis Scott", "price": 0, "rarity": "legendary" }
   ]
 }
