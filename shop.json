@@ -3,7 +3,7 @@
     { "id": "AthenaBackpack:BID_468_Cyclone", "name": "Prickly Patroller", "price": 800, "rarity": "uncommon" },
     { "id": "AthenaDance:EID_ModerateAmount_9LUN1", "name": "Scenario", "price": 2500, "rarity": "rare" },
     { "id": "AthenaGlider:Umbrella_Season_05", "name": "Brite Blimp", "price": 800, "rarity": "epic" },
-    { "id": "AthenaDance:EID_CrazyBoy", "name": "Hot Marat'", "price": 0, "rarity": "rare" },
+    { "id": "AthenaDance:EID_CrazyBoy", "name": "Hot Marat", "price": 0, "rarity": "rare" },
     { "id": "AthenaPickaxe:Pickaxe_GoldCrow", "name": "Reaper", "price": 500, "rarity": "rare" },
     { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Holofoil", "price": 150, "rarity": "rare" }
   ],
