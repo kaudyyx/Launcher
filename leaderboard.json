@@ -2,42 +2,52 @@
   "players": [
     {
       "playername": "Kaudy",
+      "level": 0,
       "hype": 19,350
     },
  {
       "playername": "EGUDO IS BACK",
+     "level": 0,
       "hype": 14,400
     },
  {
       "playername": " thalss244hz", 
+      "level": 0,
       "hype": 10,300
     },
  {
       "playername": " latino!",
+      "level": 0,
       "hype": 7,750
     },
  {
       "playername": "falonexz.",
+      "level": 0,
       "hype": 7,650
     },
  {
       "playername": "EmptinessMachine",
+      "level": 0,
       "hype": 7,250
     },
  {
       "playername": "VHroadtoglory",
+      "level": 0,
       "hype": 7,100
     },
  {
       "playername": "Frzzz",
+      "level": 0,
       "hype": 6,650
     },
  {
       "playername": " zezindamanga",
+      "level": 0,
       "hype": 6,250
     },
     {
       "playername": "GuizinSPEC444",
+      "level": 0,
       "hype": 4,450
     }
   ]
