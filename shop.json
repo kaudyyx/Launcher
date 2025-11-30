@@ -8,7 +8,7 @@
     { "id": "AthenaPickaxe:Pickaxe_HarleyHitter", "name": "Holofoil", "price": 150, "rarity": "rare" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Catwoman Comic Book Outfit", "price": 3500, "rarity": "legendary" },
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Catwoman Comic Book Outfit", "price": 3500, "rarity": "vortyx" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Merry Mint Axe", "price": 7500, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_992_Athena_Commando_F_Typhoon_LPFU6", "name": "Travis Scott", "price": 0, "rarity": "legendary" }
   ]
