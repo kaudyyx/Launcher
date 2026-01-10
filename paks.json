@@ -1,8 +1,9 @@
 {
   "links": [
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/paks/pakchunk2005-WindowsClient_P.pak",
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/paks/pakchunk2005-WindowsClient_P.sig",
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/paks/pakchunk2005-WindowsClient_P.ucas",
-    "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/paks/pakchunk2005-WindowsClient_P.utoc"
+    "https://github.com/kaudyyx/Launcher/raw/refs/heads/master/pakchunk2005-WindowsClient_P.pak",
+    "https://github.com/kaudyyx/Launcher/raw/refs/heads/master/pakchunk2005-WindowsClient_P.sig",
+    "https://github.com/kaudyyx/Launcher/raw/refs/heads/master/pakchunk2005-WindowsClient_P.ucas",
+    "https://github.com/kaudyyx/Launcher/raw/refs/heads/master/pakchunk2005-WindowsClient_P.utoc"
   ]
+
 }
