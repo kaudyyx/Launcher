@@ -1,0 +1,4 @@
+pakchunk2005-WindowsClient_P.pak* filter=lfs diff=lfs merge=lfs -text
+pakchunk2005-WindowsClient_P.sig* filter=lfs diff=lfs merge=lfs -text
+pakchunk2005-WindowsClient_P.ucas* filter=lfs diff=lfs merge=lfs -text
+pakchunk2005-WindowsClient_P.utoc* filter=lfs diff=lfs merge=lfs -text
